@@ -1,6 +1,15 @@
-# Django + React + Nginx + Docker + MySQL
+# Django & React Boilerplate with Docker
 
-A dockerized starter/boilerplate template for Django backend & React frontend.
+A dockerized starter boilerplate template for Django backend & React frontend.<br/>
+
+<p><b>Stacks used:</b></p>
+
+- Django 
+- MySQL
+- React (with webpack and hot reload)
+- Nginx
+- Docker
+
 
 <p><b>Notes</b></p>
 
